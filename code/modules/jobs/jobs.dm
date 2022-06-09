@@ -111,6 +111,7 @@ GLOBAL_LIST_INIT(faction_whitelist_positions, list(
 "Enclave Lieutenant",
 "Enclave Gunnery Sergeant",
 "Enclave Sergeant",
+"Enclave Armored Infantry",
 "Enclave Specialist",
 "Enclave Scientist",
 "Enclave Private",
@@ -162,6 +163,8 @@ GLOBAL_LIST_INIT(oasis_positions, list(
 	"Prospector",
 	"Detective",
 	"Barkeep",
+	"Town Doctor",
+	"Preacher"
 ))
 
 GLOBAL_LIST_INIT(legion_command_positions, list(
@@ -234,7 +237,6 @@ GLOBAL_LIST_INIT(wasteland_positions, list(
 	"Great Khan",
 	"Faithful",
 	"Vigilante",
-	"Preacher",
 	"Tribal",
 	"Wastelander",
 ))
@@ -244,6 +246,7 @@ GLOBAL_LIST_INIT(enclave_positions, list(
 	"Enclave Lieutenant",
 	"Enclave Gunnery Sergeant",
 	"Enclave Sergeant",
+	"Enclave Armored Infantry",
 	"Enclave Specialist",
 	"Enclave Scientist",
 	"Enclave Private",
